@@ -5,6 +5,7 @@ Easier way to find my [useful] gists
 - [terminal](https://gist.github.com/ryuheechul/57e1e67af81bed30a607f8f716e6a189)
 - [macOS](https://gist.github.com/ryuheechul/3918366306f6b7f02c250dcb0cbee4ec)
 - [DevOps](https://gist.github.com/ryuheechul/c60b1531f1105b794ef627a33fd523ea)
+- [editor](https://gist.github.com/ryuheechul/55f69bb4153e9fc11eb7663019e80ac5)
 
 ## snippets
 - [CLI](https://gist.github.com/ryuheechul/72aa19933d52b5d1085519dafa4ecb20)
