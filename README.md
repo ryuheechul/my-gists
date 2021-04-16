@@ -1,9 +1,14 @@
 # my-gists
-Easier way to find my (useful) gists
+Aggregate my gists so hopefully it's little more organized
+
+## Searching my gists
+`[keyword] user:ryuheechul` or https://gist.github.com/santisbon/2e1e9c69b58bdf4c9624219a44d40d83
+
 
 ## my buddies
 - [terminal](https://gist.github.com/ryuheechul/57e1e67af81bed30a607f8f716e6a189)
 - [macOS](https://gist.github.com/ryuheechul/3918366306f6b7f02c250dcb0cbee4ec)
+- [windows](https://gist.github.com/ryuheechul/494f4e6f08eaca34ef00ab8b238eca2a)
 - [editor](https://gist.github.com/ryuheechul/55f69bb4153e9fc11eb7663019e80ac5)
 
 ## snippets
