@@ -1,6 +1,9 @@
 # my-gists
 Aggregate my gists so hopefully it's little more organized
 
+## Disclaimer
+As I tend to miss doing housekeeping here regularly, it's likely newly added ones are missing here, in that case fall back to https://gist.github.com/ryuheechul. 
+
 ## Searching my gists
 `[keyword] user:ryuheechul` or https://gist.github.com/santisbon/2e1e9c69b58bdf4c9624219a44d40d83
 
